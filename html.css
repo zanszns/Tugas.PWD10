@@ -1,0 +1,191 @@
+<!DOCTYPE html> 
+<html lang="id"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Biodata Pribadi</title> 
+</head> 
+<body style="font-family: 'Arial', sans-serif; background-color: #f0f9ff; margin: 0; padding: 50px 
+20px;"> 
+     
+    <div style="max-width: 900px; margin: 0 auto; background-color: white; border-radius: 30px; 
+overflow: hidden; box-shadow: 0 5px 30px rgba(0,0,0,0.08);"> 
+         
+ 
+        <div style="background: linear-gradient(135deg, #0ea5e9 0%, #06b6d4 100%); padding: 50px 
+40px; text-align: center; position: relative;"> 
+            <div style="width: 120px; height: 120px; border-radius: 50%; background-color: white; margin: 
+0 auto 20px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 20px 
+rgba(0,0,0,0.15);"> 
+                <span style="font-size: 50px;">D</span> 
+            </div> 
+            <h1 style="color: white; margin: 0 0 8px 0; font-size: 32px; font-weight: 600;">dexx</h1> 
+            <p style="color: rgba(255,255,255,0.9); margin: 0; font-size: 18px;">Graphic Designer</p> 
+        </div> 
+ 
+       
+        <div style="padding: 50px 40px;"> 
+             
+ 
+            <div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 50px; flex-wrap: 
+wrap;"> 
+                <div style="text-align: center;"> 
+                    <div style="width: 50px; height: 50px; background-color: #e0f2fe; border-radius: 12px; 
+display: flex; align-items: center; justify-content: center; margin: 0 auto 10px;"> 
+                        <span style="font-size: 24px;">       </span> 
+                    </div> 
+                    <p style="margin: 0; color: #64748b; font-size: 13px;">Email</p> 
+                    <p style="margin: 5px 0 0 0; color: #0f172a; font-size: 14px; font-weight: 
+500;">dex@email.com</p> 
+                </div> 
+                 
+                <div style="text-align: center;"> 
+                    <div style="width: 50px; height: 50px; background-color: #e0f2fe; border-radius: 12px; 
+display: flex; align-items: center; justify-content: center; margin: 0 auto 10px;"> 
+                        <span style="font-size: 24px;">      </span> 
+                    </div> 
+                    <p style="margin: 0; color: #64748b; font-size: 13px;">Telepon</p> 
+                    <p style="margin: 5px 0 0 0; color: #0f172a; font-size: 14px; font-weight: 
+500;">+621234567890</p> 
+                </div> 
+                 
+                <div style="text-align: center;"> 
+                    <div style="width: 50px; height: 50px; background-color: #e0f2fe; border-radius: 12px; 
+display: flex; align-items: center; justify-content: center; margin: 0 auto 10px;"> 
+                        <span style="font-size: 24px;">   </span> 
+                    </div> 
+                    <p style="margin: 0; color: #64748b; font-size: 13px;">Lokasi</p> 
+                    <p style="margin: 5px 0 0 0; color: #0f172a; font-size: 14px; font-weight: 
+500;">Jakarta</p> 
+                </div> 
+            </div> 
+ 
+            <!-- Data Pribadi --> 
+            <div style="margin-bottom: 50px;"> 
+                <h2 style="color: #0ea5e9; font-size: 24px; margin: 0 0 25px 0; font-weight: 600; text-align: 
+center;">Data Pribadi</h2> 
+                 
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px;"> 
+                    <div style="background-color: #f8fafc; padding: 20px; border-radius: 15px; border-left: 
+4px solid #0ea5e9;"> 
+                        <p style="margin: 0 0 8px 0; color: #64748b; font-size: 13px; font-weight: 500;">NAMA 
+LENGKAP</p> 
+                        <p style="margin: 0; color: #0f172a; font-size: 16px; font-weight: 600;">Dex</p> 
+                    </div> 
+                     
+                    <div style="background-color: #f8fafc; padding: 20px; border-radius: 15px; border-left: 
+4px solid #06b6d4;"> 
+                        <p style="margin: 0 0 8px 0; color: #64748b; font-size: 13px; font-weight: 
+500;">TEMPAT, TGL LAHIR</p> 
+                        <p style="margin: 0; color: #0f172a; font-size: 16px; font-weight: 600;">Surabaya, 10 
+Juli 1997</p> 
+                    </div> 
+                     
+                    <div style="background-color: #f8fafc; padding: 20px; border-radius: 15px; border-left: 
+4px solid #0ea5e9;"> 
+                        <p style="margin: 0 0 8px 0; color: #64748b; font-size: 13px; font-weight: 500;">JENIS 
+KELAMIN</p> 
+                        <p style="margin: 0; color: #0f172a; font-size: 16px; font-weight: 600;">Laki-laki</p> 
+                    </div> 
+                     
+                    <div style="background-color: #f8fafc; padding: 20px; border-radius: 15px; border-left: 
+4px solid #06b6d4;"> 
+                        <p style="margin: 0 0 8px 0; color: #64748b; font-size: 13px; font-weight: 
+500;">AGAMA</p> 
+                        <p style="margin: 0; color: #0f172a; font-size: 16px; font-weight: 600;">Islam</p> 
+                    </div> 
+                     
+                    <div style="background-color: #f8fafc; padding: 20px; border-radius: 15px; border-left: 
+4px solid #0ea5e9;"> 
+                        <p style="margin: 0 0 8px 0; color: #64748b; font-size: 13px; font-weight: 
+500;">STATUS</p> 
+                        <p style="margin: 0; color: #0f172a; font-size: 16px; font-weight: 600;">Belum 
+Menikah</p> 
+                    </div> 
+                     
+                    <div style="background-color: #f8fafc; padding: 20px; border-radius: 15px; border-left: 
+4px solid #06b6d4;"> 
+                        <p style="margin: 0 0 8px 0; color: #64748b; font-size: 13px; font-weight: 
+500;">ALAMAT</p> 
+                        <p style="margin: 0; color: #0f172a; font-size: 16px; font-weight: 600;">Jl. Pemuda No. 
+88</p> 
+                    </div> 
+                </div> 
+            </div> 
+ 
+            
+            <div style="margin-bottom: 50px;"> 
+                <h2 style="color: #0ea5e9; font-size: 24px; margin: 0 0 25px 0; font-weight: 600; text-align: 
+center;">Pendidikan</h2> 
+                 
+                <div style="background-color: #f8fafc; padding: 30px; border-radius: 15px; margin-bottom: 
+15px;"> 
+                    <div style="display: flex; align-items: center; justify-content: space-between; margin
+bottom: 12px;"> 
+                        <h3 style="margin: 0; color: #0f172a; font-size: 18px; font-weight: 600;">S1 Desain 
+Grafis</h3> 
+                        <span style="background-color: #0ea5e9; color: white; padding: 6px 15px; border
+radius: 20px; font-size: 12px; font-weight: 600;">2015 - 2019</span> 
+                    </div> 
+                    <p style="margin: 0; color: #0ea5e9; font-size: 15px; font-weight: 500;">Universitas 
+Jakarta</p> 
+                </div> 
+ 
+                <div style="background-color: #f8fafc; padding: 30px; border-radius: 15px;"> 
+                    <div style="display: flex; align-items: center; justify-content: space-between; margin
+bottom: 12px;"> 
+                        <h3 style="margin: 0; color: #0f172a; font-size: 18px; font-weight: 600;">SMA Negeri 10 
+Surabaya</h3> 
+                        <span style="background-color: #06b6d4; color: white; padding: 6px 15px; border
+radius: 20px; font-size: 12px; font-weight: 600;">2012 - 2015</span> 
+                    </div> 
+                    <p style="margin: 0; color: #06b6d4; font-size: 15px; font-weight: 500;">Jurusan IPA</p> 
+                </div> 
+            </div> 
+ 
+            <!-- Keahlian --> 
+            <div style="margin-bottom: 50px;"> 
+                <h2 style="color: #0ea5e9; font-size: 24px; margin: 0 0 25px 0; font-weight: 600; text-align: 
+center;">Keahlian</h2> 
+                 
+                <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;"> 
+                    <span style="background-color: #e0f2fe; color: #0369a1; padding: 12px 24px; border
+radius: 25px; font-size: 14px; font-weight: 500;">Adobe Photoshop</span> 
+                    <span style="background-color: #e0f2fe; color: #0369a1; padding: 12px 24px; border
+radius: 25px; font-size: 14px; font-weight: 500;">Adobe Illustrator</span> 
+                    <span style="background-color: #e0f2fe; color: #0369a1; padding: 12px 24px; border
+radius: 25px; font-size: 14px; font-weight: 500;">CorelDRAW</span> 
+                    <span style="background-color: #e0f2fe; color: #0369a1; padding: 12px 24px; border
+radius: 25px; font-size: 14px; font-weight: 500;">Figma</span> 
+                    <span style="background-color: #e0f2fe; color: #0369a1; padding: 12px 24px; border
+radius: 25px; font-size: 14px; font-weight: 500;">Canva</span> 
+                    <span style="background-color: #e0f2fe; color: #0369a1; padding: 12px 24px; border
+radius: 25px; font-size: 14px; font-weight: 500;">Typography</span> 
+                </div> 
+            </div> 
+ 
+            <!-- Tentang Saya --> 
+            <div style="background: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%); padding: 35px; 
+border-radius: 15px; text-align: center;"> 
+                <h2 style="color: #0369a1; font-size: 24px; margin: 0 0 15px 0; font-weight: 600;">Tentang 
+Saya</h2> 
+                <p style="margin: 0; color: #0c4a6e; font-size: 15px; line-height: 1.8;"> 
+                    Seorang desainer grafis yang passionate dalam menciptakan visual yang menarik dan 
+komunikatif. Memiliki pengalaman 4 tahun dalam industri kreatif dengan fokus pada branding dan 
+media digital. Senang belajar hal baru dan bekerja dalam tim. 
+                </p> 
+            </div> 
+ 
+        </div> 
+ 
+        <!-- Footer --> 
+        <div style="background-color: #f8fafc; padding: 25px; text-align: center; border-top: 1px solid 
+#e2e8f0;"> 
+            <p style="margin: 0; color: #64748b; font-size: 14px;">© 2025 Budi Santoso - Terima kasih 
+telah mengunjungi biodata saya    </p> 
+        </div> 
+ 
+    </div> 
+ 
+</body> 
+</html> 
